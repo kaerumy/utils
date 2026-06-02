@@ -1,0 +1,6 @@
+[submodule "docling-scripts"]
+	path = docling-scripts
+	url = https://github.com/kaerumy/docling-scripts
+[submodule "google_drive_pdf_screenshot"]
+	path = google_drive_pdf_screenshot
+	url = https://github.com/kaerumy/google_drive_pdf_screenshot
