@@ -4,3 +4,6 @@
 [submodule "google_drive_pdf_screenshot"]
 	path = google_drive_pdf_screenshot
 	url = https://github.com/kaerumy/google_drive_pdf_screenshot
+[submodule "transcode-scripts"]
+	path = transcode-scripts
+	url = https://github.com/kaerumy/transcode-scripts
